@@ -16,6 +16,7 @@ public class LoginTest extends TestMethods {
 	@Test(dataProvider = "ExcelReadForLogin")
 	public void loginTest(String uname, String pwd, String expectedResult) {
 		System.out.println(uname + ":" + pwd);
+		System.out.println("Hello world");
 		System.out.println("Start : Login Test");
 		initialize();
 		RegistrationPage registrationPage = goto_Registration();
