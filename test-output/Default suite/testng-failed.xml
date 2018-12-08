@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.technocredits.testscripts.LoginTest">
+      <class name="com.technocredits.gitPrac.HarikaTest">
         <methods>
-          <include name="afterTest"/>
-          <include name="loginTest" invocation-numbers="1"/>
+          <include name="AutoComplete"/>
         </methods>
-      </class> <!-- com.technocredits.testscripts.LoginTest -->
+      </class> <!-- com.technocredits.gitPrac.HarikaTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
