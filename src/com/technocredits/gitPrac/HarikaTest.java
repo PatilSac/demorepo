@@ -19,6 +19,7 @@ public class HarikaTest {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\HARIKA\\Desktop\\TechnoCredits_JavaProgram\\softwares\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		//Navigate to google page and enter selenium in search text box
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("Selenium");
 		driver.manage().timeouts().implicitlyWait(5000, TimeUnit.SECONDS);
