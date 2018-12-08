@@ -1,4 +1,4 @@
-package com.technocredits.gitPracPriyankaZ;
+package com.technocredits.gitPrac;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -9,13 +9,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class AutoCompleteDemo {
+public class PriyankaZTestClasses {
 	@Test
 	public void verifyAutoCompleteFunctionality() {
 		System.setProperty("webdriver.chrome.driver", "D:\\TECHNO_CREDITS\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
-		System.out.println("Browser lunch successfully");
+		System.out.println("Browser launch successfully");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
