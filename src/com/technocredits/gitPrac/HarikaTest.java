@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class HarikaTest {
     
-	//Enter partial text in google search engine and select "selenium webdriver" option from auto populated list.
+	//Enter partial text in google search kk engine and select "selenium webdriver" option from auto populated list.
 	@Test
 	public void AutoComplete()
 	{   
