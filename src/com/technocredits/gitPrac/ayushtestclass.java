@@ -1,4 +1,4 @@
-package gitproject;
+package com.technocredits.gitPrac;
 
 import java.awt.List;
 import java.util.concurrent.TimeUnit;
@@ -42,10 +42,10 @@ public class ayushtestclass {
 			element_name.click();
 			System.out.println("amazon opened ");
 		}
-	//hitting on amazon url
+		//hitting on amazon url
 		driver.findElement(By.xpath("//h3[text()='Amazon.in']")).click();
 		String hometext = driver.findElement(By.xpath("//div[@id='nav-logo']")).getText();
-	//verifying home page amazon.in
+		//verifying home page amazon.in
 		if(hometext.equals("amazon.in"))
 			System.out.println("verified home page");
 		else 
