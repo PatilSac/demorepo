@@ -1,4 +1,4 @@
-package gitproject;
+package com.technocredits.gitPrac;
 
 import java.awt.List;
 import java.util.concurrent.TimeUnit;
@@ -31,14 +31,14 @@ public class ayushtestclass {
 		int listsize = driver.findElements(By.xpath("//ul[@class='erkvQe']/li//span")).size();
 		
 		System.out.println(listsize);
-		//printing the size
+		//printing the size\
 		for(int i=1;i<=listsize;i++)
 		{
 		WebElement element_name = driver.findElement(By.xpath("//ul[@class='erkvQe']//li[" + i + "]//span"));
 			//WebElement element_name = driver.findElement(By.xpath("//ul[@class='erkvQe']//li[" + i + "]//span"));
 			String name =  element_name.getText();
 			System.out.println(name);
-			if(name.equals("amazon"));
+			if(name.equals("amazon prime"));
 			element_name.click();
 			System.out.println("amazon opened ");
 		}
