@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PostScript Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/postscript-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/book-icon-256.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-12-01 19:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Thomas%20Fritsch%22&quot;&gt;Thomas Fritsch&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2016-11-13 08:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tfritschk6n/listings&quot; title=&quot;Thomas Fritsch&quot;&gt;Thomas Fritsch&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;PSDT is a PostScript IDE for Eclipse, including editor, debugger and documentation. It cooperates with the Ghostscript interpreter in a platform-independent way.&lt;/p&gt;
+&lt;p&gt;Features&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Syntax Highlighting&lt;/li&gt;
+&lt;li&gt;Syntax Validation&lt;/li&gt;
+&lt;li&gt;Content Assist&lt;/li&gt;
+&lt;li&gt;Documentation Hovers&lt;/li&gt;
+&lt;li&gt;Run/Debug with Ghostscript&lt;/li&gt;
+&lt;li&gt;Breakpoints&lt;/li&gt;
+&lt;li&gt;Watch Points&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 13 Nov 2016 13:57:52 +0000</pubDate>
+ <dc:creator>tfritschk6n</dc:creator>
+ <guid isPermaLink="false">3162861 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/postscript-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>Yaml Editor</title>
+    <link>http://marketplace.eclipse.org/content/yaml-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/yaml-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2018-12-01 17:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-05-24 09:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a simple YAML editor. &lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fast and small&lt;/li&gt;
+&lt;li&gt;Vertical Ruler which can be moved (F3)&lt;/li&gt;
+&lt;li&gt;Simple code completion for existing words&lt;/li&gt;
+&lt;li&gt;Replacing always tab keypress by spaces (default is 3, but configurable)&lt;/li&gt;
+&lt;li&gt;Outline + Quickoutline&lt;/li&gt;
+&lt;li&gt;Task support (TODO, FIXME, custom)&lt;/li&gt;
+&lt;li&gt;Folding&lt;/li&gt;
+&lt;li&gt;Validation
+&lt;ul&gt;&lt;li&gt;When?
+&lt;ul&gt;&lt;li&gt;On start&lt;/li&gt;
+&lt;li&gt;On save&lt;/li&gt;
+&lt;li&gt;Manual validation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What ?
+&lt;ul&gt;&lt;li&gt;Parser errors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Syntaxhighlighting, colors can be customized, defaults for dark themes exist&lt;/li&gt;
+&lt;li&gt;Comment toggling (CTRL + 7)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Additional Links&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-yaml-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 May 2018 13:58:51 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">4101183 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/yaml-editor#comments</comments>
+  </item>
+  <item>
+    <title>Spring Tools 4 (aka Spring Tool Suite 4)</title>
+    <link>http://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sts4-marketplace-icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-11-30 19:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-07-11 12:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Spring Tools 4&lt;/h2&gt;
+&lt;p&gt;Spring Tools 4 is the next generation of Spring tooling for your favorite coding enrivonment. Largely rebuilt from scratch, it provides world-class support for developing Spring-based enterprise applications, whether you prefer Eclipse, Visual Studio Code, or Atom IDE.&lt;/p&gt;
+&lt;h3&gt;Getting Started&lt;/h3&gt;
+&lt;p&gt;Spring Tool Suite 4 makes it easy to get started. A direct and easy-to-use integration of the Spring Initializr and the famous Spring Guides allows you to go from nothing to a running Spring Boot app in seconds.&lt;/p&gt;
+&lt;h3&gt;Navigate your Spring code at the speed of light&lt;/h3&gt;
+&lt;p&gt;Understanding and quickly navigating source code is essential for coding. The new Spring Tools 4 understands your Spring-based source code and allows you to quickly get an overview and navigate to the important pieces of your Spring apps. Finding Spring elements and navigating to them has never been easier.&lt;/p&gt;
+&lt;h3&gt;Smart Code Editing&lt;/h3&gt;
+&lt;p&gt;Code completion is a critical part of working with source code. The all-new Spring Tools 4 provides smart code completions for the Spring elements in your app.&lt;/p&gt;
+&lt;h3&gt;Runtime Information In Your Editor&lt;/h3&gt;
+&lt;p&gt;Spring Tools 4 now bridges the gap between your source code and running Spring Boot applications. By taking advantage of the Spring Boot Actuators, we enriched the source code with detailed information from the running app (e.g., exact bean wiring information, conditional reports, configuration, details, and more).&lt;/p&gt;
+&lt;h3&gt;Looking for the old Spring Tool Suite 3?&lt;/h3&gt;
+&lt;p&gt;If you are looking for the previous generation of Spring Tools for Eclipse, also known as Spring Tool Suite 3 or Spring IDE, you should look at the &quot;Spring Tools 3 Add-On&quot; entry in the marketplace here: &lt;a href=&quot;https://marketplace.eclipse.org/content/spring-tools-3-add-aka-spring-tool-suite-3&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/spring-tools-3-add-aka-spring-tool-suite-3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Jul 2014 16:41:17 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">1794107 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4#comments</comments>
+  </item>
+  <item>
+    <title>CodeMix</title>
+    <link>http://marketplace.eclipse.org/content/codemix</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codemix-icon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-11-30 14:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2018-04-02 15:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;With &lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;CodeMix 2&lt;/a&gt;, unlock a wide array of technologies from Visual Studio Code and add-on extensions built for Code OSS directly inside your Eclipse IDE.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;First class JavaScript coding &amp;amp; debugging&lt;/li&gt;
+&lt;li&gt;Vastly improved HTML and CSS editing&lt;/li&gt;
+&lt;li&gt;New languages including TypeScript, PHP and Python&lt;/li&gt;
+&lt;li&gt;New frameworks from React and Vue.js to Angular&lt;/li&gt;
+&lt;li&gt;Build Pipeline support for external build tasks&lt;/li&gt;
+&lt;li&gt;New UX patterns like the Quick Open shortcuts&lt;/li&gt;
+&lt;li&gt;As-you-type content assist and CodeMining&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://www.genuitec.com/products/codemix/&quot; rel=&quot;nofollow&quot;&gt;See all the features of CodeMix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CodeMix can be installed on top of leading Eclipse solutions from MyEclipse to Spring Tools Suite. CodeMix is also compatible with popular plugins like PDT and PyDev.&lt;/p&gt;
+&lt;p&gt;You can try out CodeMix for free for 45 days, and then choose from a $29 one-year subscription or a month for $5. Just enough to help us keep adding more awesomeness to CodeMix!&lt;/p&gt;
+&lt;p&gt;Already using MyEclipse, Webclipse or Angular IDE from Genuitec? You get CodeMix 2 &lt;a href=&quot;https://www.genuitec.com/products/codemix/faq-existing-customers/&quot; rel=&quot;nofollow&quot;&gt;included in your current license&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Apr 2018 19:34:28 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">4008412 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codemix#comments</comments>
+  </item>
+  <item>
+    <title>Heirloom PaaS SDK</title>
+    <link>http://marketplace.eclipse.org/content/heirloom-paas-sdk</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/heirloomlogo_0_0.png&quot; width=&quot;110&quot; height=&quot;26&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-11-30 12:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Heirloom%20Computing%22&quot;&gt;Heirloom Computing&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2018-04-18 19:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gcrook/listings&quot; title=&quot;Gary Crook&quot;&gt;Gary Crook&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Digital Transformation of Mainframe Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Heirloom PaaS™ automatically transforms mainframe applications so they execute on Java Application Servers, while preserving critical business logic, user-interfaces, data integrity, and systems security. &lt;/p&gt;
+&lt;p&gt;Replatforming with Heirloom PaaS is 3X faster than re-engineering, cutting operational costs by more than 90%, with a typical ROI well inside 12 months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agile Cloud-Native Applications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Replatforming with Heirloom PaaS™ delivers agile cloud-native applications that can be deployed on-premise or to any cloud. Applications can dynamically scale-out &amp;amp; scale-back, with high-availability, and cost-effective utilization of resources.&lt;/p&gt;
+&lt;p&gt;Seamlessly integrate &amp;amp; extend Heirloom PaaS applications with powerful open source application frameworks to quickly add new functions, re-factor code, and construct microservices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open, Powerful, Flexible&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Heirloom PaaS™ applications execute on any industry-standard Java Application Server, removing any dependency on proprietary containers, and therefore eliminating vendor lock-in.&lt;/p&gt;
+&lt;p&gt;With state-of-the-art Eclipse plugins, application development can continue in the original language (e.g. COBOL, PL/I, JCL) or Java, or any mix. This unprecedented flexibility means you can move fast with a blended model that makes best use of your technical resources.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 Apr 2018 23:04:21 +0000</pubDate>
+ <dc:creator>gcrook</dc:creator>
+ <guid isPermaLink="false">4037898 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/heirloom-paas-sdk#comments</comments>
+  </item>
+  <item>
+    <title>Contrast for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/contrast-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ContrastIcon256px_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2018-11-30 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Contrast%20Security%22&quot;&gt;Contrast Security&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2014-08-25 18:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hmcginnis/listings&quot; title=&quot;Harold McGinnis&quot;&gt;Harold McGinnis&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Instrument your applications with Contrast Security to gain real-time visibility to vulnerabilities in your application, and to defend them against attacks. Contrast integrates with your existing SDLC processes to provide an easy way to view and fix vulnerabilities in your code, and protect your applications. The Contrast for Eclipse plugin lists the vulnerabilities from your application directly in your Eclipse environment enabling developers to resolve issues faster. Please note that you will need the Contrast TeamServer in order to use this feature. You can learn more about Contrast Security’s latest products by visiting our website at &lt;a href=&quot;http://www.contrastsecurity.com&quot; rel=&quot;nofollow&quot;&gt;www.contrastsecurity.com&lt;/a&gt; . To schedule a demo, contact us at (&lt;a href=&quot;https://www.contrastsecurity.com/demo&quot; rel=&quot;nofollow&quot;&gt;https://www.contrastsecurity.com/demo&lt;/a&gt;) or by calling 1-888-371-1333 Welcome to the Era of Self-Protecting Software.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 25 Aug 2014 22:21:10 +0000</pubDate>
+ <dc:creator>hmcginnis</dc:creator>
+ <guid isPermaLink="false">1876552 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/contrast-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>COBOL Development Environment</title>
+    <link>http://marketplace.eclipse.org/content/cobol-development-environment</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-11-29 15:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22none%22&quot;&gt;none&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2010-10-30 12:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnameq3n/listings&quot; title=&quot;Sebastian Nerger&quot;&gt;Sebastian Nerger&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;COBOL Development Environment An simple COBOL Development Environment (for OpenCOBOL) for all dinos.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 30 Oct 2010 16:47:18 +0000</pubDate>
+ <dc:creator>mmisingnameq3n</dc:creator>
+ <guid isPermaLink="false">17667 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cobol-development-environment#comments</comments>
+  </item>
+  <item>
+    <title>IBM Liberty Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/ibm-liberty-developer-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wdt-was-emp-darkblue-500.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-11-29 11:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 08:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/canderson/listings&quot; title=&quot;Carl Anderson&quot;&gt;Carl Anderson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Eclipse IDE for building and deploying Java EE, OSGi and Web 2.0 applications to Open Liberty and WebSphere Application Server Liberty. For more information about installing and downloading the tools, including archived versions of the tools for older versions of Eclipse, see &lt;a href=&quot;https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/&quot; rel=&quot;nofollow&quot;&gt;WebSphere Application Server Developer Tools Releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If your Eclipse workbench is Eclipse Oxygen, it must be Eclipse Oxygen for Java EE Developers, Version 4.7.2 or higher.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Jul 2014 12:24:46 +0000</pubDate>
+ <dc:creator>canderson</dc:creator>
+ <guid isPermaLink="false">1778478 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ibm-liberty-developer-tools#comments</comments>
+  </item>
+  <item>
+    <title>JRebel for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/jrebel-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/JRebel_EclipseMarketplace_110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-11-29 10:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ZeroTurnaround%22&quot;&gt;ZeroTurnaround&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-01-25 08:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/owhite/listings&quot; title=&quot;JRebel ZeroTurnaround&quot;&gt;JRebel ZeroTurnaround&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Jan 2011 13:59:21 +0000</pubDate>
+ <dc:creator>owhite</dc:creator>
+ <guid isPermaLink="false">29591 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jrebel-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>concrete5 plugin</title>
+    <link>http://marketplace.eclipse.org/content/concrete5-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/concrete5.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-11-29 10:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Michele%20Locati%22&quot;&gt;Michele Locati&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2018-11-28 08:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlocati/listings&quot; title=&quot;Michele Locati&quot;&gt;Michele Locati&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin greatly improves developing with the concrete5 CMS.&lt;/p&gt;
+&lt;p&gt;For example, if you have this code:&lt;/p&gt;
+&lt;pre&gt;
+$app-&amp;gt;make(&#039;token&#039;)-&amp;gt;|&lt;/pre&gt;&lt;p&gt;the IDE will suggest you all the methods of the Token class.&lt;/p&gt;
+&lt;p&gt;In order to make it work, you need to:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;right-click on your project in the Project Manager view, then choose Properties.&lt;br /&gt;
+	Go to the Project Facets section and select the concrete5 project facet&lt;/li&gt;
+&lt;li&gt;open a console and run the c5:ide-symbols CLI command:&lt;br /&gt;
+	./concrete/bin/concrete5 c5:ide-symbols&lt;br /&gt;
+	(on Windows, replace the forward slashes &quot;/&quot; with backward slashes &quot;\&quot;)&lt;/li&gt;
+&lt;li&gt;right-click on your project in the Project Manager view, then choose Refresh&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 28 Nov 2018 13:30:09 +0000</pubDate>
+ <dc:creator>mlocati</dc:creator>
+ <guid isPermaLink="false">4392617 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/concrete5-plugin#comments</comments>
+  </item>
+  </channel>
+</rss>
