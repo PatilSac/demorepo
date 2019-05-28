@@ -48,9 +48,7 @@ public class PredefinedMethods {
 	}
 
 	static public void start() {
-		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\maulik.kanani\\Downloads\\3rd_Party_Jars\\chromedriver_win32\\chromedriver.exe");
-
+		System.setProperty("webdriver.chrome.driver", "D:\\TECHNO_CREDITS\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 

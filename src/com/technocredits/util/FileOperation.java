@@ -17,7 +17,6 @@ public class FileOperation {
 			prop = new Properties();
 			prop.load(input);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return prop;

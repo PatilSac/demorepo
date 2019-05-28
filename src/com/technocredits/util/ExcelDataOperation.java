@@ -32,9 +32,10 @@ public class ExcelDataOperation {
 		Workbook wb = new XSSFWorkbook(input);
 		
 		Sheet sheet = wb.getSheet(sheetName);
-		int totalRows = getTotalRows(sheet);
-		
-		int totalCol = getTotalCol(sheet);
+		//int totalRows = getTotalRows(sheet);
+		int totalRows = sheet.getLastRowNum()+1;
+		int totalCol = sheet.getRow(sheet.getFirstRowNum()).getLastCellNum();
+		//int totalCol = getTotalCol(sheet);
 		String[][] data = new String[totalRows][totalCol];
 		
 		for(int i=0; i<totalRows;i++)
